@@ -1,5 +1,13 @@
 # ISS Now 
+# How to run it
 
+Create a new virtualenv and install the requirements from requirements.txt
+```bash
+virtualenv venv
+pip install -r requirements.txt
+source venv/bin/activate
+python issnow.py
+```
 # Guidelines
 ## Details
 
